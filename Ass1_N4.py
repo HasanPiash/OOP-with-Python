@@ -28,8 +28,6 @@
 #     print("Invalid input:", str(e))
 
 
-
-
 # def max_operations(N,A):
 #     operations=0
 #     while all(a%2==0 for a in A):
@@ -50,3 +48,4 @@ def mx_optns(N,A):
 N=int(input())
 A=list(map(int,input().split())) 
 mx_optns(N,A)
+

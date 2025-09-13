@@ -19,8 +19,6 @@
 # print(ans)
 
 
-
-
 N=100100
 n=int(input().strip())
 a=[0]*N
@@ -37,3 +35,4 @@ for i in range(1,N):
     else:
         ans+=a[i]-i
 print(ans)
+

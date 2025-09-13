@@ -18,7 +18,6 @@
 # S = input().strip()
 # split_balanced_strings(S)
 
-
 def splt_blc_strs(S):
     balance=0
     result=[]
@@ -37,3 +36,4 @@ def splt_blc_strs(S):
     print("\n".join(result))
 S = input().strip()
 splt_blc_strs(S)
+

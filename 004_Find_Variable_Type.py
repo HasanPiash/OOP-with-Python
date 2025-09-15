@@ -12,4 +12,5 @@ print (Name , Department)
 
 print(type(age)) 
 print(type(Name))
+
 print(type(Weight))

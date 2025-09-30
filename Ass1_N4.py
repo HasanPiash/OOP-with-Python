@@ -45,7 +45,9 @@ def mx_optns(N,A):
         A=[a//2 for a in A]
         optns +=1
     print(optns)
+    
 N=int(input())
 A=list(map(int,input().split())) 
 mx_optns(N,A)
+
 

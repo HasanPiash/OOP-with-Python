@@ -7,4 +7,5 @@ is_sleeping = False
 print (age)
 print (age + Weight)
 print (Name , Department)
-print ('Python' + ' ' + 'Django')
+
+print ('Python' + ' ' + 'Django') 

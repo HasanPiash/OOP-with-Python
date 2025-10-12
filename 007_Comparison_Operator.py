@@ -7,8 +7,6 @@ x = 55
 y = 50
 print (x==y)  # False
 
-
-
 # NOT Equal to:
 x = 55
 y = 55
@@ -72,4 +70,5 @@ print (x<=y)  # True
 """
 There is No -- & ++ in Python.
 ** Means power of N ( 2**3 = 2 Power of 3 = 8)
+
 """

@@ -5,7 +5,6 @@
 #     while all(a % 2 == 0 for a in A):
 #         A = [a // 2 for a in A]
 #         operations += 1
-    
 #     print(operations)
 
 # # Input Parsing
@@ -49,5 +48,6 @@ def mx_optns(N,A):
 N=int(input())
 A=list(map(int,input().split())) 
 mx_optns(N,A)
+
 
 

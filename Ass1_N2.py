@@ -5,12 +5,14 @@
 # n = int(data[0])
 # a = [0] * N
 # ans = 0
+
 # for i in range(1, n + 1):
 #     x = int(data[i])
 #     if x >= N:
 #         ans += 1
 #     else:
 #         a[x] += 1
+
 # for i in range(1, N):
 #     if a[i] < i:
 #         ans += a[i]
@@ -35,4 +37,5 @@ for i in range(1,N):
     else:
         ans+=a[i]-i
 print(ans)
+
 

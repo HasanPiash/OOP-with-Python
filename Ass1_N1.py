@@ -1,9 +1,12 @@
 # def split_balanced_strings(S):
+
 #     balance = 0
 #     balanced_count = 0
 #     result = []
 #     start = 0
+
 #     for i, char in enumerate(S):
+
 #         if char == 'L':
 #             balance += 1
 #         elif char == 'R':
@@ -36,4 +39,5 @@ def splt_blc_strs(S):
     print("\n".join(result))
 S = input().strip()
 splt_blc_strs(S)
+
 

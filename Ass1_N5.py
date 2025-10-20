@@ -1,6 +1,7 @@
 # import pyautogui
 # import time
 # def draw_pyramid(levels):
+
 #     time.sleep(3)
 #     for i in range(1, levels + 1):
 #         pyautogui.typewrite('#' * i)

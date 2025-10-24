@@ -4,6 +4,7 @@ class Book:
         self.__title=title
         self.__author=author
         self.__availability=availability
+        
     @property
     def book_id(self):
         return self.__book_id
@@ -148,3 +149,4 @@ print(book)
 # Book("103", "The Great Gatsby", "F. Scott Fitzgerald")
 
 # menu()
+

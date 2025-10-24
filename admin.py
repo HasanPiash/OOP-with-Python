@@ -23,6 +23,7 @@ class Admin:
         else:
             print("Customer not found.")
 
+    
     def manage_menu(self, menu):
         while True:
             print("Menu Management Options:")
@@ -59,3 +60,4 @@ class Admin:
                 break
             else:
                 print("Invalid choice. Please try again.")
+

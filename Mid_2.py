@@ -8,3 +8,4 @@ class Book:
     def __repr__(self):
         return(f"Book(book_id={self.book_id}, title='{self.title}', "
                 f"author='{self.author}',availability={self.availability})")
+        

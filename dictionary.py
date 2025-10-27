@@ -1,5 +1,6 @@
 numbers = [12, 56 , 98, 78, 56, 12, 26, 98]
 person1 = ['Kala Chan', 'kalipur', 23, 'student']
+
 # key value pair
 # dictionary
 # object

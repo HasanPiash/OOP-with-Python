@@ -5,7 +5,7 @@ name3 = """
     Sakib khan
     number one
 """
-
+ 
 print(name)
 # string is a sequence of characters
 for char in name2:

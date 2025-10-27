@@ -13,7 +13,7 @@ class Customer:
 
     def check_balance(self):
         print(f"Your current balance is: ${self.balance}")
-
+ 
     def add_funds(self, amount):
         self.balance += amount
         print(f"${amount} added to your balance. New balance: ${self.balance}")
@@ -31,3 +31,4 @@ class Customer:
         print("Past Orders:")
         for order in self.past_orders:
             print(order)
+

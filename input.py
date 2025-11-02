@@ -3,6 +3,7 @@
 # input('Give me some money: ')
 # money = input('Give me some money: ')
 # print("here is your money", money)
+
 first_money= input('Kodom Ali, Dosto kichu taka dey: ')
 second_money= input('Peyara begum, dosto kichu taka dey: ')
 print(type(first_money))

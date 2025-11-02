@@ -20,7 +20,6 @@ print(name)
 
 # def function_name(num1, num2, *args, **kargs):
 
-
 # return multiple things from an array
 def a_lot(num1, num2):
     sum = num1 + num2

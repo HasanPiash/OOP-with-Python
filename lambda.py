@@ -21,7 +21,6 @@ print(numbers)
 print(list(squared_nums))
 
 
-
 actors = [
     {'name': 'sabana', 'age': 65 },
     {'name': 'sabnoor', 'age': 45 },

@@ -11,5 +11,6 @@ def buy_things(item, price):
     balance = balance - price
     print( f'balance after buying {item}', balance)
 # print(dream_phone)
+
 buy_things('sunglass', 1000)
 print('global balance after buy', balance)

@@ -14,7 +14,6 @@ but we are using variables in python
 right now. I am very very excitedly hungry
 """
 
-
 print(age * interest_rate)
 print(district)
 

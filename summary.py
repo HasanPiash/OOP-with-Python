@@ -11,7 +11,6 @@ WAT WE LEARNED TODAY
 9. type casting
  """
 
-
 """ 
 HOMEWORK
 1. float

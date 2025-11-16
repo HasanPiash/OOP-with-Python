@@ -1,4 +1,4 @@
-age = 25
+age = 25 
 Weight = 70.5
 Name = "Hasan Piash"
 Department = "Computer Science"
@@ -14,3 +14,4 @@ print(type(age))
 print(type(Name))
 
 print(type(Weight))
+

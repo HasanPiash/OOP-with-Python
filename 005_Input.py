@@ -1,7 +1,7 @@
 print ('Input Something')
 Account = input('Give me some Money: ')
 print(Account)
-
+ 
 """ 
 OUTPUT: Give me some Money:100
 RESULT: 100 
@@ -26,3 +26,4 @@ INPUT: 50 & 50
 OUTPUT: 100
 
 """
+
